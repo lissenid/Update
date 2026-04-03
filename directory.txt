@@ -1,0 +1,4 @@
+Agentic.exe
+Agentic.cfg
+Agentic.pdb
+Agentic.exe.config
