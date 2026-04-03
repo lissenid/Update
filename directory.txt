@@ -2,3 +2,5 @@ Agentic.exe
 Agentic.cfg
 Agentic.pdb
 Agentic.exe.config
+index.html
+video.mp4
