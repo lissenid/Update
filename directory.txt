@@ -2,3 +2,15 @@ Agentic.exe
 Agentic.cfg
 Agentic.pdb
 Agentic.exe.config
+Agentic.ico
+AgenticWatchdog.deps.json
+AgenticWatchdog.dll
+AgenticWatchdog.exe
+AgenticWatchdog.pdb
+AgenticWatchdog.runtimeconfig.json
+DiscordRPC.dll
+DiscordRPC.pdb
+DiscordRPC.xml
+Newtonsoft.Json.dll
+Newtonsoft.Json.xml
+watchdog_beat.tmp
