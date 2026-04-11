@@ -19,4 +19,5 @@ Microsoft.Web.WebView2.Wpf.dll
 Microsoft.Web.WebView2.Wpf.xml
 Newtonsoft.Json.dll
 Newtonsoft.Json.xml
+index.html
 watchdog_beat.tmp
