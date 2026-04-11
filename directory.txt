@@ -1,8 +1,8 @@
-Agentic.exe
 Agentic.cfg
-Agentic.pdb
+Agentic.exe
 Agentic.exe.config
 Agentic.ico
+Agentic.pdb
 AgenticWatchdog.deps.json
 AgenticWatchdog.dll
 AgenticWatchdog.exe
@@ -11,6 +11,13 @@ AgenticWatchdog.runtimeconfig.json
 DiscordRPC.dll
 DiscordRPC.pdb
 DiscordRPC.xml
+Microsoft.Web.WebView2.Core.dll
+Microsoft.Web.WebView2.Core.xml
+Microsoft.Web.WebView2.WinForms.dll
+Microsoft.Web.WebView2.WinForms.xml
+Microsoft.Web.WebView2.Wpf.dll
+Microsoft.Web.WebView2.Wpf.xml
 Newtonsoft.Json.dll
 Newtonsoft.Json.xml
+runtimes
 watchdog_beat.tmp
